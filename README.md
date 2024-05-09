@@ -41,12 +41,12 @@ This data set consists of a set of 870 images. Each image contains a hand making
 We used 2 forms of pre-trained CNN-based models for transfer learning: SqueezeNet and Resnet-50
 
 
-## Resnet-18 Architecture:
-<p align="center"><img src="images/Resnet18.png" width="500" /></p>
+## SqueezeNet Architecture:
+<p align="center"><img src="images/squeezenet.png" width="500" /></p>
 
 
-## EfficientNet-B0 Architecture:
-<p align="center"><img src="images/efficientnet.png" width="500" /></p>
+## ResNet-50 Architecture:
+<p align="center"><img src="images/resnet50.png" width="500" /></p>
 
 
 # Parameters
